@@ -1,0 +1,2 @@
+# config.py
+API_KEY = "UYD6OXN5RDVX9HN8"
