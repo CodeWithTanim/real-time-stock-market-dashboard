@@ -51,8 +51,8 @@ Developed as part of my internship with **Codec Technologies**, the **Real-Time 
 #### 🛠️ Setup:
 ```bash
 # Clone and setup
-git clone [your-repo-link]
-cd stock-dashboard
+git clone https://github.com/CodeWithTanim/real-time-stock-market-dashboard.git
+cd real-time-stock-market-dashboard
 pip install -r requirements.txt
 
 # Add API key in config.py
