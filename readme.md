@@ -99,7 +99,8 @@ stock-dashboard/
 
 > [MD SAMIUR RAHMAN TANIM](https://github.com/CodeWithTanim)
 > Intern at [Codec Technologies](http://codectechnologies.in/)  
-> 🔗 [GitHub](your-github) | [LinkedIn](your-linkedin)  
+> 🔗 [GitHub](https://github.com/CodeWithTanim) | [LinkedIn](https://www.linkedin.com/in/codewithtanim/)  
+
 
 ---
 
